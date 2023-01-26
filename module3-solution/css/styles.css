@@ -53,11 +53,9 @@ body {
   background-color: seagreen;
   text-decoration: none;
   color: black;
-  border: 1px solid black;
 }
 .card-text a {
   background-color: white;
   text-decoration: none;
   color: seagreen;
-  border: 1px solid seagreen;
 }
