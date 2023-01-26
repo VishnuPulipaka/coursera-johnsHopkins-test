@@ -1,0 +1,63 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.card {
+  border: 1px solid black;
+}
+#header-nav {
+  background-color: seagreen;
+  border-bottom: 4px solid black;
+}
+.navbar-header .brand-font h1 {
+  font-size: 1.5em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  border: 2px double black;
+  background-color: #30d5c8;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 2px white;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+  text-shadow: 2px 2px 2px white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  font-size: larger;
+}
+.card-title {
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  color: seagreen;
+  border-bottom: 2px solid seagreen;
+}
+.card {
+  padding: 10px;
+  border: 3px solid seagreen;
+  margin-bottom: 10px;
+}
+.navbar-default .navbar-toggle {
+  background-color: #30d5c8;
+  border-color: black;
+  border-radius: 0;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+.card-text a:hover {
+  background-color: seagreen;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+}
+.card-text a {
+  background-color: white;
+  text-decoration: none;
+  color: seagreen;
+  border: 1px solid seagreen;
+}
